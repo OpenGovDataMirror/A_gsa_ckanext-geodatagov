@@ -1,0 +1,10 @@
+---
+sourceLocationPrefix: "/home/user/asf/cloner/gh/clones/A_gsa_ckanext-geodatagov"
+baselineLinesOfCode: 0
+unicodeNewlines: true
+columnKind: "utf16"
+primaryLanguage: "javascript"
+creationMetadata:
+  sha: "5cf0b0ea9e205bc6306ae25627ad127d81ecb165"
+  cliVersion: "2.11.1"
+  creationTime: "2022-12-13T22:56:12.336695694Z"
